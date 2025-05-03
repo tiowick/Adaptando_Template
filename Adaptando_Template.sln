@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adaptando_Template", "Adaptando_Template.csproj", "{AE38D460-30A3-4A3E-A578-FD9044961496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE38D460-30A3-4A3E-A578-FD9044961496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE38D460-30A3-4A3E-A578-FD9044961496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE38D460-30A3-4A3E-A578-FD9044961496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE38D460-30A3-4A3E-A578-FD9044961496}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE1AEE5E-0697-4FC9-AFDE-12EE73B59226}
+	EndGlobalSection
+EndGlobal
